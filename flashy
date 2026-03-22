@@ -22,8 +22,8 @@ _G.NightMode = false  -- Set to true for night mode, false for day mode
 _G.TODC = false       -- TimeOfDayChange: Set to false to not change the timeofday
 
 AllowedPlayers = {
-    ["fleeburneracc"] = "RF", -- change this
-    ["ProSilver85"] = "Zoom", -- change this
+    ["fleeburneracc"] = "Zoom", -- change this
+    ["ProSilver85"] = "Regular", -- change this
     ["Player3Username"] = "Regular" -- change
 }
 
