@@ -23,7 +23,7 @@ _G.TODC = false       -- TimeOfDayChange: Set to false to not change the timeofd
 
 AllowedPlayers = {
     ["fleeburneracc"] = "Zoom", -- change this
-    ["ProSilver85"] = "Regular", -- change this
+    ["ProSilver85"] = "GodOfSpeed", -- change this
     ["Player3Username"] = "Regular" -- change
 }
 
