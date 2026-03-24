@@ -22,9 +22,13 @@ _G.NightMode = false  -- Set to true for night mode, false for day mode
 _G.TODC = false       -- TimeOfDayChange: Set to false to not change the timeofday
 
 AllowedPlayers = {
-    ["fleeburneracc"] = "Zoom", -- change this
-    ["ProSilver85"] = "GodOfSpeed", -- change this
-    ["Player3Username"] = "Regular" -- change
+    ["fleeburneracc"] = "Zoom",
+    ["ProSilver85"] = "GodOfSpeed",
+    ["Player3Username"] = "Regular",
+    [""] = "",
+    [""] = "",
+    [""] = "",
+    [""] = ""
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Inquesthub/Reverse-Flash/refs/heads/main/Open%20Sourced%20Version"))()
